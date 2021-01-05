@@ -10,7 +10,7 @@
   "dependencies": {
     "amaze-vue": "^1.1.18",
     "amazeui": "^2.7.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "core-js": "^2.6.5",
     "css-loader": "^3.2.0",
     "element-ui": "^2.12.0",
